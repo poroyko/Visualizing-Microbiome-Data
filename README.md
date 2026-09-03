@@ -7,7 +7,7 @@ visualization is implemented as a documented, reusable function, applied to
 a reproducible synthetic dataset, and paired with a discussion of what the
 plot shows, the biological question it answers, and its limitations.
 
-The tutorial follows a minimal-ink, black-and-white design philosophy
+The tutorial (*_bw) follows a minimal-ink, black-and-white design philosophy
 throughout: groups are told apart using marker shape, fill, and line style
 rather than color wherever possible, so every figure remains legible after
 grayscale printing or photocopying.
