@@ -168,5 +168,4 @@ means:
 
 ## License
 
-Add a license of your choosing (e.g. MIT) before publishing this
-repository publicly.
+MIT Copyright (c) 2026 Valeriy Poroyko
